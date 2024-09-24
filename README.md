@@ -35,4 +35,4 @@ Feel free to contribute by:
 - Providing additional examples or coding challenges.
 
 ## 📝 **License:**
-This repository is open-source and available under the MIT License.
+This repository is open-source.
